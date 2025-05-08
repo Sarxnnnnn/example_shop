@@ -155,8 +155,3 @@ shop/
 3. Commit การเปลี่ยนแปลง: `git commit -m 'Add new feature'`
 4. Push ไปยัง branch: `git push origin feature-name`
 5. สร้าง Pull Request
-
-## License
-
-โปรเจคนี้อยู่ภายใต้ MIT License - ดูรายละเอียดเพิ่มเติมได้ที่ [LICENSE](LICENSE)
-
